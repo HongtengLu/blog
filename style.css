@@ -1,0 +1,22 @@
+.title{
+    background-color: rgb(51, 190, 190);
+    font-size: 40px;
+    color: white;
+    margin-left: 100px;
+    padding-top: 30px;
+}
+element.style{
+    border-color:red;
+}
+
+.description{
+    color:  #7c8b88;
+}
+.content{
+    margin-top: 30px;
+    margin-left: 100px;
+    display:flex;
+}
+.screenshot{
+    margin-right:15px;
+}
