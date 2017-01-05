@@ -53,9 +53,10 @@ body {
   margin-left: auto;
 }
 
-/* Padding for spacing */
+/* Padding margin for spacing */
 .inner {
-  padding: 30px;
+    padding: 30px;
+    margin-top : 50px;
 }
 
 
@@ -144,7 +145,8 @@ body {
   }
   /* Start the vertical centering */
   .site-wrapper-inner {
-    vertical-align: middle;
+      vertical-align: middle;
+      margin-top = 50px;
   }
   /* Handle the widths */
   .masthead,
